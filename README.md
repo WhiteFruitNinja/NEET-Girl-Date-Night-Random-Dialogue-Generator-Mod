@@ -28,8 +28,9 @@ I personally have never used macOS, but I will try to make this mod work for mac
 
 ## Special Thanks to:
 <p>
-  <p><a href="https://github.com/CensoredUsername">CensoredUsername</a> for <a href="https://github.com/CensoredUsername/unrpyc">unrpyc<a/> (a tool to decompile Ren'Py compiled .rpyc script files).</p>
+  <p><a href="https://github.com/CensoredUsername">CensoredUsername</a> for <a href="https://github.com/CensoredUsername/unrpyc">unrpyc</a>a> (a tool to decompile Ren'Py compiled .rpyc script files).</p>
   <p><a href="https://github.com/first20hours">first20hours</a> for <a href="https://github.com/first20hours/google-10000-english">google-10000-english</a> (list of most common English words in order of frequency) [Removed transphobic slur].</p>
   <p><a href="https://x.com/raidengaembing">raidengugga(raidengaembing)</a> for inspiration (check out his <a href="https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA">Neet Girl Date Night for the PSVITA</a> port).</p>
 </p>
-<p align="center" padding-top="20px"><img src="https://github.com/user-attachments/assets/5714fbb6-6a53-4778-a23c-bb42a4933edf"/><p/>
+</br>
+<p align="center"><img src="https://github.com/user-attachments/assets/5714fbb6-6a53-4778-a23c-bb42a4933edf"/></p>
