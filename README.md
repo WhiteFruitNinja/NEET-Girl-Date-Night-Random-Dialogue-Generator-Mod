@@ -14,13 +14,17 @@ You need to have the "NEET Girl Date Night" game (which can be downloaded from h
 <p align="center"><img src="https://github.com/user-attachments/assets/68c72467-a884-4ed7-b101-6d9d4aa384c2" width="1000"/></p>
 
 3) Right click on zip file and extract it.
-<img src="https://github.com/user-attachments/assets/03df6acf-9b28-45d8-9408-737cc2497475" width="500" height="450"/>
-<img src="https://github.com/user-attachments/assets/dd206c3b-75a7-4b3d-b5bb-47d3dcd53634" width="500" height="450"/>
-<p align="center"><img src="https://github.com/user-attachments/assets/4f25a61e-b8b4-40aa-a192-6badcdb46320" width="500"/></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03df6acf-9b28-45d8-9408-737cc2497475" width="400" height="350"/>
+  <img src="https://github.com/user-attachments/assets/dd206c3b-75a7-4b3d-b5bb-47d3dcd53634" width="400" height="350"/>
+</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/4f25a61e-b8b4-40aa-a192-6badcdb46320" width="400"/></p>
 
 4) Go inside the folder, then go inside the 'build-version-for-windows' folder.
-<img src="https://github.com/user-attachments/assets/6d40bc59-b021-4a7f-bc52-7fa5d6d2956d" width="500" height="300"/>
-<img src="https://github.com/user-attachments/assets/a0bcebd2-5971-46a9-8251-87aeacc3cad2" width="500" height="300"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d40bc59-b021-4a7f-bc52-7fa5d6d2956d" width="400" height="300"/>
+  <img src="https://github.com/user-attachments/assets/470c4f22-2405-4379-b186-22f1fe8c394f" width="400" height="300"/>
+</p>
 <p align="center"><img src="https://github.com/user-attachments/assets/53c6726d-eed2-4805-aadb-9e07942c0c18" width="500"/></p>
 
 
@@ -33,8 +37,8 @@ You need to have the "NEET Girl Date Night" game (which can be downloaded from h
 
 7) When you run the application, Windows SmartScreen might appear due to a lack of users running the application and because the application has an unknown publisher according to Microsoft. Press 'More info' and then 'Run anyway'.
 <p float="left" align="center">
-<img src="https://github.com/user-attachments/assets/516f960f-a0f6-47ec-ac29-6cfe61b9de65" width="500"/>
-<img src="https://github.com/user-attachments/assets/5d98ce36-35d6-4b56-a3ae-0fc0932d409f" width="500"/>
+  <img src="https://github.com/user-attachments/assets/516f960f-a0f6-47ec-ac29-6cfe61b9de65" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5d98ce36-35d6-4b56-a3ae-0fc0932d409f" width="400"/>
 <p/>
 <p align="center">I have uploaded the source code for the mod in the 'source-for-windows' folder for those who are curious.</p>
 8) Celebrate! 🥳
