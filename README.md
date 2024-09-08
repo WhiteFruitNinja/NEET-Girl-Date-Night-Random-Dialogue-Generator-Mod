@@ -1,4 +1,5 @@
-# <img src="https://github.com/user-attachments/assets/9e94e238-8600-4e2a-b5d8-b5dde97911da" width="1000"/>
+# NEET Girl Date Night: Random Dialogue Generator Mod
+<img src="https://github.com/user-attachments/assets/9e94e238-8600-4e2a-b5d8-b5dde97911da" width="1000"/>
 
 # What is this mod?
 This is a mod for a game called "NEET Girl Date Night" that allows you to generate dialogues and replace the game's original dialogues with the generated dialogues.
