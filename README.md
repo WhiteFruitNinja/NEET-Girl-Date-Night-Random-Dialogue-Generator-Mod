@@ -53,7 +53,7 @@ I personally have never used macOS, but I will try to make this mod work for mac
 # Credits:
 <p>
   <p>Made by <a href="https://x.com/WhiteFruitNinja">WhiteFruitNinja</a></p>
-  <p>Arts used from <a href="https://x.com/hitsujigoods">Hitsuji Goods</a> (check out her <a href="https://hitsujigoods.com/">merch shop</a> and <a href="https://www.patreon.com/hitsujigoods">Patreon<a/>)</p>
+  <p>Art used from <a href="https://x.com/hitsujigoods">Hitsuji Goods</a> (check out her <a href="https://hitsujigoods.com/">merch shop</a> and <a href="https://www.patreon.com/hitsujigoods">Patreon<a/>)</p>
 </p>
 
 ## Special Thanks to:
